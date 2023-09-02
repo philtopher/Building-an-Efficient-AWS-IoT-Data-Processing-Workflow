@@ -36,7 +36,7 @@ They maintain a secure and highly available AWS environment.
 Robust access control mechanisms are implemented.
 Data is encrypted to protect sensitive IoT information.
 Monitoring tools are employed to track data flows and system health.
-<p><img src="IoT-Data-Processing-Workflow.png" alt="IOT Data Processing" width="900" height="600"></p>
+<p><img src="IoT-Data-Processing-Workflow.png" alt="IOT Data Processing" width="600" height="300"></p>
 <p><b>Conclusion</b></p>
 In this tutorial, we've explored a real-world scenario where an organization leverages AWS services to build an efficient IoT data processing workflow. By using Amazon Kinesis Data Streams, IoT rules, and Amazon Simple Queue Service, they ensure that IoT data is processed reliably and that errors are managed effectively. This architecture enables a scalable and robust solution for processing IoT data, demonstrating the power of AWS in managing IoT workloads.
 
